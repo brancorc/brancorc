@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/branco-blunda-830449328/) [![Website](https://img.shields.io/badge/Web-%2300C853.svg?logo=google-chrome&logoColor=white)](https://brancorc.github.io/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://instagram.com/brancorc)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/branco-blunda-830449328/) [![Website](https://img.shields.io/badge/Web-%2300C853.svg?logo=google-chrome&logoColor=white)](https://brancorc.github.io/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brancorc)
 
 
 # 💻 Tech Stack:
