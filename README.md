@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Sobre mí<br>Hola, soy Branco. Estudiante de la Tecnicatura Universitaria en Inteligencia Artificial y entusiasta de la programación desde 2021. Con experiencia previa en la Licenciatura en Ciencias de la Computación, me especializo en inteligencia artificial, automatización y desarrollo de soluciones eficientes a problemas complejos. Me motiva el aprendizaje constante y la aplicación práctica de la tecnología para optimizar procesos.<br><br>
+Hola, soy Branco. Estudiante de la Tecnicatura Universitaria en Inteligencia Artificial y entusiasta de la programación desde 2021. Con experiencia previa en la Licenciatura en Ciencias de la Computación, me especializo en inteligencia artificial, automatización y desarrollo de soluciones eficientes a problemas complejos. Me motiva el aprendizaje constante y la aplicación práctica de la tecnología para optimizar procesos.<br><br>
 
 
 ## 🌐 Socials:
